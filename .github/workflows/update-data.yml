@@ -33,7 +33,7 @@ jobs:
 
       - name: Запуск скрипта сбора данных
         env:
-          LIQUIPEDIA_API_KEY: ${{ secrets.LIQUIPEDIA_API_KEY }}
+          PANDASCORE_API_KEY: ${{ secrets.PANDASCORE_API_KEY }}
         run: |
           python scripts/fetch_data.py
 

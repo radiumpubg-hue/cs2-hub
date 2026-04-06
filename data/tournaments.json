@@ -1,0 +1,41 @@
+{
+  "last_updated": "2026-04-06T21:52:08.611737Z",
+  "tournaments": [
+    {
+      "id": "eu_rmr_2025",
+      "name": "European RMR 2025",
+      "region": "europe",
+      "date": "15 июн 2025",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+    },
+    {
+      "id": "na_rmr_2025",
+      "name": "Americas RMR 2025",
+      "region": "americas",
+      "date": "22 июн 2025",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+    },
+    {
+      "id": "apac_rmr_2025",
+      "name": "Asia Pacific RMR 2025",
+      "region": "asia",
+      "date": "29 июн 2025",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+    },
+    {
+      "id": "pgl_major_2025",
+      "name": "PGL Major 2025",
+      "region": "global",
+      "date": "15 авг 2025",
+      "major_slots": 24,
+      "status": "Upcoming",
+      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+    }
+  ]
+}

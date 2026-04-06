@@ -1,0 +1,206 @@
+{
+  "last_updated": "2026-04-06T21:52:08.610583Z",
+  "source": "Liquipedia VRS",
+  "teams": [
+    {
+      "name": "Natus Vincere",
+      "region": "europe",
+      "flag": "🇺🇦",
+      "points": 2400,
+      "qualified": true,
+      "global_rank": 1
+    },
+    {
+      "name": "Team Vitality",
+      "region": "europe",
+      "flag": "🇫🇷",
+      "points": 2200,
+      "qualified": true,
+      "global_rank": 2
+    },
+    {
+      "name": "The MongolZ",
+      "region": "asia",
+      "flag": "🇲🇳",
+      "points": 2100,
+      "qualified": true,
+      "global_rank": 3
+    },
+    {
+      "name": "FaZe Clan",
+      "region": "europe",
+      "flag": "🌍",
+      "points": 1900,
+      "qualified": true,
+      "global_rank": 4
+    },
+    {
+      "name": "Team Liquid",
+      "region": "americas",
+      "flag": "🇺🇸",
+      "points": 1800,
+      "qualified": true,
+      "global_rank": 5
+    },
+    {
+      "name": "G2 Esports",
+      "region": "europe",
+      "flag": "🇪🇺",
+      "points": 1750,
+      "qualified": true,
+      "global_rank": 6
+    },
+    {
+      "name": "Falcons",
+      "region": "asia",
+      "flag": "🇸🇦",
+      "points": 1700,
+      "qualified": true,
+      "global_rank": 7
+    },
+    {
+      "name": "FURIA",
+      "region": "americas",
+      "flag": "🇧🇷",
+      "points": 1650,
+      "qualified": true,
+      "global_rank": 8
+    },
+    {
+      "name": "Team Spirit",
+      "region": "europe",
+      "flag": "🇷🇺",
+      "points": 1600,
+      "qualified": true,
+      "global_rank": 9
+    },
+    {
+      "name": "MOUZ",
+      "region": "europe",
+      "flag": "🇩🇪",
+      "points": 1450,
+      "qualified": true,
+      "global_rank": 10
+    },
+    {
+      "name": "NRG Esports",
+      "region": "americas",
+      "flag": "🇺🇸",
+      "points": 1400,
+      "qualified": true,
+      "global_rank": 11
+    },
+    {
+      "name": "Heroic",
+      "region": "europe",
+      "flag": "🇩🇰",
+      "points": 1300,
+      "qualified": true,
+      "global_rank": 12
+    },
+    {
+      "name": "Cloud9",
+      "region": "americas",
+      "flag": "🇺🇸",
+      "points": 1200,
+      "qualified": true,
+      "global_rank": 13
+    },
+    {
+      "name": "MIBR",
+      "region": "americas",
+      "flag": "🇧🇷",
+      "points": 1000,
+      "qualified": false,
+      "global_rank": 14
+    },
+    {
+      "name": "Astralis",
+      "region": "europe",
+      "flag": "🇩🇰",
+      "points": 900,
+      "qualified": false,
+      "global_rank": 15
+    },
+    {
+      "name": "Lynn Vision",
+      "region": "asia",
+      "flag": "🇨🇳",
+      "points": 900,
+      "qualified": false,
+      "global_rank": 16
+    },
+    {
+      "name": "paiN Gaming",
+      "region": "americas",
+      "flag": "🇧🇷",
+      "points": 850,
+      "qualified": false,
+      "global_rank": 17
+    },
+    {
+      "name": "Complexity",
+      "region": "americas",
+      "flag": "🇺🇸",
+      "points": 700,
+      "qualified": false,
+      "global_rank": 18
+    },
+    {
+      "name": "TYLOO",
+      "region": "asia",
+      "flag": "🇨🇳",
+      "points": 650,
+      "qualified": false,
+      "global_rank": 19
+    },
+    {
+      "name": "BIG",
+      "region": "europe",
+      "flag": "🇩🇪",
+      "points": 600,
+      "qualified": false,
+      "global_rank": 20
+    },
+    {
+      "name": "Imperial",
+      "region": "americas",
+      "flag": "🇧🇷",
+      "points": 580,
+      "qualified": false,
+      "global_rank": 21
+    },
+    {
+      "name": "Eternal Fire",
+      "region": "asia",
+      "flag": "🇹🇷",
+      "points": 500,
+      "qualified": false,
+      "global_rank": 22
+    },
+    {
+      "name": "ENCE",
+      "region": "europe",
+      "flag": "🇫🇮",
+      "points": 450,
+      "qualified": false,
+      "global_rank": 23
+    },
+    {
+      "name": "3DMAX",
+      "region": "europe",
+      "flag": "🇫🇷",
+      "points": 380,
+      "qualified": false,
+      "global_rank": 24
+    },
+    {
+      "name": "SAW",
+      "region": "europe",
+      "flag": "🇵🇹",
+      "points": 310,
+      "qualified": false,
+      "global_rank": 25
+    }
+  ]
+}

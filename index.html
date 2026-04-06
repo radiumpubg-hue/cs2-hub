@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CS2 Hub — Рейтинги и квалификации</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;900&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="noise"></div>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-cs">CS2</span>
+      <span class="logo-hub">HUB</span>
+    </div>
+    <div class="header-meta">
+      <span id="last-updated">Обновляется...</span>
+      <span class="live-dot"></span>
+    </div>
+  </div>
+</header>
+
+<nav class="tab-nav">
+  <button class="tab-btn active" data-tab="rankings">VRS Рейтинг</button>
+  <button class="tab-btn" data-tab="tournaments">Квалификации</button>
+  <button class="tab-btn" data-tab="calculator">Калькулятор очков</button>
+</nav>
+
+<!-- TAB: Rankings -->
+<section class="tab-content active" id="tab-rankings">
+  <div class="section-header">
+    <h2>Valve Regional Standings</h2>
+    <div class="filters">
+      <button class="filter-btn active" data-region="all">Все</button>
+      <button class="filter-btn" data-region="europe">Европа</button>
+      <button class="filter-btn" data-region="americas">Америка</button>
+      <button class="filter-btn" data-region="asia">Азия</button>
+    </div>
+  </div>
+  <div class="table-wrap">
+    <table class="rankings-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Команда</th>
+          <th>Регион</th>
+          <th>VRS Очки</th>
+          <th>Статус</th>
+        </tr>
+      </thead>
+      <tbody id="rankings-body">
+        <tr><td colspan="5" class="loading-row">Загрузка данных...</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- TAB: Qualifications -->
+<section class="tab-content" id="tab-tournaments">
+  <div class="section-header">
+    <h2>Турниры и квалификации</h2>
+  </div>
+  <div id="tournaments-grid" class="tournaments-grid">
+    <div class="loading-card">Загрузка турниров...</div>
+  </div>
+</section>
+
+<!-- TAB: Calculator -->
+<section class="tab-content" id="tab-calculator">
+  <div class="section-header">
+    <h2>Калькулятор VRS очков</h2>
+    <p class="section-desc">Выбери турнир и посмотри, сколько VRS очков получат команды за каждое место</p>
+  </div>
+  <div class="calc-layout">
+    <div class="calc-select-wrap">
+      <label>Турнир</label>
+      <select id="calc-tournament">
+        <option value="">— Выбери турнир —</option>
+      </select>
+    </div>
+    <div id="calc-results" class="calc-results">
+      <div class="calc-placeholder">Выбери турнир выше</div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <span>Данные: Liquipedia · Обновляется каждые 6 часов через GitHub Actions</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

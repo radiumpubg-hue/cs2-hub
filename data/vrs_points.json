@@ -1,0 +1,227 @@
+{
+  "last_updated": "2026-04-06T21:52:08.612190Z",
+  "info": "Valve Regional Standings points per placement",
+  "tournaments": {
+    "major": {
+      "name": "CS2 Major Championship",
+      "tier": "S",
+      "placements": [
+        {
+          "place": "1 место 🥇",
+          "vrs_points": 5000,
+          "description": "Чемпион"
+        },
+        {
+          "place": "2 место 🥈",
+          "vrs_points": 3500,
+          "description": "Финалист"
+        },
+        {
+          "place": "3–4 место",
+          "vrs_points": 2500,
+          "description": "Полуфиналист"
+        },
+        {
+          "place": "5–8 место",
+          "vrs_points": 1500,
+          "description": "Четвертьфиналист"
+        },
+        {
+          "place": "9–12 место",
+          "vrs_points": 900,
+          "description": "Легенды — выбыл"
+        },
+        {
+          "place": "13–16 место",
+          "vrs_points": 600,
+          "description": "Претенденты — выбыл"
+        },
+        {
+          "place": "17–24 место",
+          "vrs_points": 250,
+          "description": "Претенденты — не прошёл"
+        }
+      ]
+    },
+    "rmr_europe": {
+      "name": "European RMR",
+      "tier": "A",
+      "placements": [
+        {
+          "place": "1 место 🥇",
+          "vrs_points": 2000,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "2 место 🥈",
+          "vrs_points": 1600,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "3–4 место",
+          "vrs_points": 1300,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "5–8 место",
+          "vrs_points": 1000,
+          "description": "Слот через претендентов"
+        },
+        {
+          "place": "9–12 место",
+          "vrs_points": 600,
+          "description": "Не прошёл"
+        },
+        {
+          "place": "13–16 место",
+          "vrs_points": 300,
+          "description": "Не прошёл"
+        },
+        {
+          "place": "17+ место",
+          "vrs_points": 100,
+          "description": "Групповой этап"
+        }
+      ]
+    },
+    "rmr_americas": {
+      "name": "Americas RMR",
+      "tier": "A",
+      "placements": [
+        {
+          "place": "1 место 🥇",
+          "vrs_points": 2000,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "2 место 🥈",
+          "vrs_points": 1600,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "3–4 место",
+          "vrs_points": 1300,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "5–8 место",
+          "vrs_points": 1000,
+          "description": "Слот через претендентов"
+        },
+        {
+          "place": "9–12 место",
+          "vrs_points": 600,
+          "description": "Не прошёл"
+        },
+        {
+          "place": "13–16 место",
+          "vrs_points": 300,
+          "description": "Не прошёл"
+        }
+      ]
+    },
+    "rmr_asia": {
+      "name": "Asia Pacific RMR",
+      "tier": "A",
+      "placements": [
+        {
+          "place": "1 место 🥇",
+          "vrs_points": 2000,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "2 место 🥈",
+          "vrs_points": 1600,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "3–4 место",
+          "vrs_points": 1300,
+          "description": "Прямой слот на Мейджор"
+        },
+        {
+          "place": "5–8 место",
+          "vrs_points": 1000,
+          "description": "Слот через претендентов"
+        },
+        {
+          "place": "9–12 место",
+          "vrs_points": 600,
+          "description": "Не прошёл"
+        }
+      ]
+    },
+    "blast_open": {
+      "name": "BLAST Open",
+      "tier": "B",
+      "placements": [
+        {
+          "place": "1 место 🥇",
+          "vrs_points": 1000,
+          "description": ""
+        },
+        {
+          "place": "2 место 🥈",
+          "vrs_points": 800,
+          "description": ""
+        },
+        {
+          "place": "3–4 место",
+          "vrs_points": 600,
+          "description": ""
+        },
+        {
+          "place": "5–8 место",
+          "vrs_points": 400,
+          "description": ""
+        },
+        {
+          "place": "9–12 место",
+          "vrs_points": 200,
+          "description": ""
+        },
+        {
+          "place": "13–16 место",
+          "vrs_points": 100,
+          "description": ""
+        }
+      ]
+    },
+    "esl_pro_league": {
+      "name": "ESL Pro League",
+      "tier": "B",
+      "placements": [
+        {
+          "place": "1 место 🥇",
+          "vrs_points": 1200,
+          "description": ""
+        },
+        {
+          "place": "2 место 🥈",
+          "vrs_points": 900,
+          "description": ""
+        },
+        {
+          "place": "3–4 место",
+          "vrs_points": 700,
+          "description": ""
+        },
+        {
+          "place": "5–8 место",
+          "vrs_points": 450,
+          "description": ""
+        },
+        {
+          "place": "9–12 место",
+          "vrs_points": 250,
+          "description": ""
+        },
+        {
+          "place": "13–16 место",
+          "vrs_points": 120,
+          "description": ""
+        }
+      ]
+    }
+  }
+}

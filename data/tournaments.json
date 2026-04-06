@@ -1,5 +1,6 @@
 {
-  "last_updated": "2026-04-06T21:52:08.611737Z",
+  "last_updated": "2026-04-06T22:21:03.396480+00:00",
+  "source": "Fallback (нет API ключа)",
   "tournaments": [
     {
       "id": "eu_rmr_2025",
@@ -7,8 +8,7 @@
       "region": "europe",
       "date": "15 июн 2025",
       "major_slots": 8,
-      "status": "Upcoming",
-      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+      "status": "Upcoming"
     },
     {
       "id": "na_rmr_2025",
@@ -16,8 +16,7 @@
       "region": "americas",
       "date": "22 июн 2025",
       "major_slots": 8,
-      "status": "Upcoming",
-      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+      "status": "Upcoming"
     },
     {
       "id": "apac_rmr_2025",
@@ -25,8 +24,7 @@
       "region": "asia",
       "date": "29 июн 2025",
       "major_slots": 8,
-      "status": "Upcoming",
-      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+      "status": "Upcoming"
     },
     {
       "id": "pgl_major_2025",
@@ -34,8 +32,7 @@
       "region": "global",
       "date": "15 авг 2025",
       "major_slots": 24,
-      "status": "Upcoming",
-      "liquipedia_url": "https://liquipedia.net/counterstrike/"
+      "status": "Upcoming"
     }
   ]
 }

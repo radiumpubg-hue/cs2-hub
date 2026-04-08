@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T07:12:23.124085+00:00",
+  "last_updated": "2026-04-08T13:12:56.282927+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -28,6 +28,15 @@
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 20687
+    },
+    {
+      "id": "20719",
+      "name": "IEM — Playoffs",
+      "region": "global",
+      "date": "17 апр 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 20719
     },
     {
       "id": "20708",

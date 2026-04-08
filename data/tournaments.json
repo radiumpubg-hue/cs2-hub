@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T02:02:29.432214+00:00",
+  "last_updated": "2026-04-08T07:12:23.124085+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -12,15 +12,6 @@
       "pandascore_id": 20670
     },
     {
-      "id": "20687",
-      "name": "IEM — Group B",
-      "region": "global",
-      "date": "13 апр 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20687
-    },
-    {
       "id": "20686",
       "name": "IEM — Group A",
       "region": "global",
@@ -28,6 +19,15 @@
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 20686
+    },
+    {
+      "id": "20687",
+      "name": "IEM — Group B",
+      "region": "global",
+      "date": "13 апр 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 20687
     },
     {
       "id": "20708",

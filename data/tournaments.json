@@ -1,25 +1,7 @@
 {
-  "last_updated": "2026-04-13T19:09:25.840830+00:00",
+  "last_updated": "2026-04-14T02:07:46.950314+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "20686",
-      "name": "IEM — Group A",
-      "region": "global",
-      "date": "13 апр 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20686
-    },
-    {
-      "id": "20687",
-      "name": "IEM — Group B",
-      "region": "global",
-      "date": "13 апр 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20687
-    },
     {
       "id": "20719",
       "name": "IEM — Playoffs",

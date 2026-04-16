@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-16T02:12:06.027661+00:00",
+  "last_updated": "2026-04-16T07:26:14.130498+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -28,6 +28,15 @@
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 20742
+    },
+    {
+      "id": "20791",
+      "name": "BLAST Rivals — Playoffs",
+      "region": "global",
+      "date": "1 май 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 20791
     },
     {
       "id": "20708",

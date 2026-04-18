@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-04-17T18:54:43.313483+00:00",
+  "last_updated": "2026-04-18T01:59:51.720013+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
-      "name": "Inner Circle Prospect",
-      "acronym": null,
-      "flag": "🇺🇦",
-      "region": "europe",
-      "points": 2500,
-      "qualified": true,
-      "pandascore_id": 138602
-    },
-    {
-      "global_rank": 2,
       "name": "paiN Academy",
       "acronym": "paiN.A",
       "flag": "🇧🇷",
       "region": "americas",
-      "points": 2390,
+      "points": 2500,
       "qualified": true,
       "pandascore_id": 131849
+    },
+    {
+      "global_rank": 2,
+      "name": "Inner Circle Prospect",
+      "acronym": null,
+      "flag": "🇺🇦",
+      "region": "europe",
+      "points": 2390,
+      "qualified": true,
+      "pandascore_id": 138602
     },
     {
       "global_rank": 3,

@@ -1,60 +1,38 @@
 {
-  "last_updated": "2026-04-20T02:13:19.828270+00:00",
-  "source": "PandaScore API",
+  "last_updated": "2026-04-20T08:00:17.111780+00:00",
+  "source": "Fallback (нет API ключа)",
   "tournaments": [
     {
-      "id": "20741",
-      "name": "BLAST Rivals — Group A",
-      "region": "global",
-      "date": "29 апр 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20741
+      "id": "eu_rmr_2025",
+      "name": "European RMR 2025",
+      "region": "europe",
+      "date": "15 июн 2025",
+      "major_slots": 8,
+      "status": "Upcoming"
     },
     {
-      "id": "20742",
-      "name": "BLAST Rivals — Group B",
-      "region": "global",
-      "date": "29 апр 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20742
+      "id": "na_rmr_2025",
+      "name": "Americas RMR 2025",
+      "region": "americas",
+      "date": "22 июн 2025",
+      "major_slots": 8,
+      "status": "Upcoming"
     },
     {
-      "id": "20791",
-      "name": "BLAST Rivals — Playoffs",
-      "region": "global",
-      "date": "1 май 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20791
+      "id": "apac_rmr_2025",
+      "name": "Asia Pacific RMR 2025",
+      "region": "asia",
+      "date": "29 июн 2025",
+      "major_slots": 8,
+      "status": "Upcoming"
     },
     {
-      "id": "20708",
-      "name": "IEM — Stage 1",
+      "id": "pgl_major_2025",
+      "name": "PGL Major 2025",
       "region": "global",
-      "date": "1 июн 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20708
-    },
-    {
-      "id": "20709",
-      "name": "IEM — Stage 2",
-      "region": "global",
-      "date": "5 июн 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20709
-    },
-    {
-      "id": "20710",
-      "name": "IEM — Playoffs",
-      "region": "global",
-      "date": "10 июн 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20710
+      "date": "15 авг 2025",
+      "major_slots": 24,
+      "status": "Upcoming"
     }
   ]
 }

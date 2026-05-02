@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-05-01T19:06:13.022922+00:00",
+  "last_updated": "2026-05-02T02:24:11.155545+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "20791",
-      "name": "BLAST Rivals — Playoffs",
-      "region": "global",
-      "date": "1 май 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20791
-    },
     {
       "id": "20902",
       "name": "PGL — Group Stage",

@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-05-03T02:32:34.976102+00:00",
+  "last_updated": "2026-05-03T07:56:34.986707+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
-      "name": "ELITES",
-      "acronym": "ELI",
-      "flag": "🏳",
-      "region": "americas",
-      "points": 2500,
-      "qualified": true,
-      "pandascore_id": 137889
-    },
-    {
-      "global_rank": 2,
-      "name": "UNO MILLE",
-      "acronym": "UNO",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 2390,
-      "qualified": true,
-      "pandascore_id": 130605
-    },
-    {
-      "global_rank": 3,
       "name": "Zomblers",
       "acronym": "ZOMB",
       "flag": "🇺🇸",
       "region": "americas",
-      "points": 2280,
+      "points": 2500,
       "qualified": true,
       "pandascore_id": 132891
+    },
+    {
+      "global_rank": 2,
+      "name": "ELITES",
+      "acronym": "ELI",
+      "flag": "🏳",
+      "region": "americas",
+      "points": 2390,
+      "qualified": true,
+      "pandascore_id": 137889
+    },
+    {
+      "global_rank": 3,
+      "name": "UNO MILLE",
+      "acronym": "UNO",
+      "flag": "🇧🇷",
+      "region": "americas",
+      "points": 2280,
+      "qualified": true,
+      "pandascore_id": 130605
     },
     {
       "global_rank": 4,

@@ -1,67 +1,67 @@
 {
-  "last_updated": "2026-05-04T08:24:36.827310+00:00",
+  "last_updated": "2026-05-04T13:49:06.251594+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
-      "name": "OKSUCC",
-      "acronym": "OKS",
-      "flag": "🏳",
-      "region": "asia",
-      "points": 2500,
-      "qualified": true,
-      "pandascore_id": 138646
-    },
-    {
-      "global_rank": 2,
-      "name": "9daplug",
-      "acronym": null,
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 2390,
-      "qualified": true,
-      "pandascore_id": 138574
-    },
-    {
-      "global_rank": 3,
-      "name": "Fake do Biru",
-      "acronym": "FDB",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 2280,
-      "qualified": true,
-      "pandascore_id": 136029
-    },
-    {
-      "global_rank": 4,
-      "name": "MIBR Academy",
-      "acronym": "MIBR.A",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 2170,
-      "qualified": true,
-      "pandascore_id": 129800
-    },
-    {
-      "global_rank": 5,
-      "name": "megoshort",
-      "acronym": "MEGO",
-      "flag": "🇸🇪",
-      "region": "europe",
-      "points": 2060,
-      "qualified": true,
-      "pandascore_id": 128629
-    },
-    {
-      "global_rank": 6,
       "name": "TNC",
       "acronym": "TNC",
       "flag": "🇵🇱",
       "region": "europe",
-      "points": 1950,
+      "points": 2500,
       "qualified": true,
       "pandascore_id": 137416
+    },
+    {
+      "global_rank": 2,
+      "name": "OKSUCC",
+      "acronym": "OKS",
+      "flag": "🏳",
+      "region": "asia",
+      "points": 2390,
+      "qualified": true,
+      "pandascore_id": 138646
+    },
+    {
+      "global_rank": 3,
+      "name": "9daplug",
+      "acronym": null,
+      "flag": "🇧🇷",
+      "region": "americas",
+      "points": 2280,
+      "qualified": true,
+      "pandascore_id": 138574
+    },
+    {
+      "global_rank": 4,
+      "name": "Fake do Biru",
+      "acronym": "FDB",
+      "flag": "🇧🇷",
+      "region": "americas",
+      "points": 2170,
+      "qualified": true,
+      "pandascore_id": 136029
+    },
+    {
+      "global_rank": 5,
+      "name": "MIBR Academy",
+      "acronym": "MIBR.A",
+      "flag": "🇧🇷",
+      "region": "americas",
+      "points": 2060,
+      "qualified": true,
+      "pandascore_id": 129800
+    },
+    {
+      "global_rank": 6,
+      "name": "megoshort",
+      "acronym": "MEGO",
+      "flag": "🇸🇪",
+      "region": "europe",
+      "points": 1950,
+      "qualified": true,
+      "pandascore_id": 128629
     },
     {
       "global_rank": 7,

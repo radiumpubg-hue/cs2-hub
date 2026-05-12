@@ -1,25 +1,7 @@
 {
-  "last_updated": "2026-05-11T19:41:58.334938+00:00",
+  "last_updated": "2026-05-12T02:37:18.155739+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "20928",
-      "name": "IEM — Group A",
-      "region": "global",
-      "date": "11 май 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20928
-    },
-    {
-      "id": "20929",
-      "name": "IEM — Group B",
-      "region": "global",
-      "date": "11 май 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20929
-    },
     {
       "id": "20930",
       "name": "PGL — Playoffs",

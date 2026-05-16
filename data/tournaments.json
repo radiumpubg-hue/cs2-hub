@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T02:34:12.044697+00:00",
+  "last_updated": "2026-05-16T07:58:26.335828+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -33,7 +33,7 @@
       "id": "20708",
       "name": "IEM — Stage 1",
       "region": "global",
-      "date": "1 июн 2026",
+      "date": "2 июн 2026",
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 20708

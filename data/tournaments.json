@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-05-16T13:13:29.148434+00:00",
+  "last_updated": "2026-05-16T18:58:52.936892+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "20954",
-      "name": "CS Asia Championships — Group A",
-      "region": "asia",
-      "date": "20 май 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 20954
-    },
     {
       "id": "20955",
       "name": "CS Asia Championships — Group B",
@@ -19,6 +10,15 @@
       "major_slots": 8,
       "status": "Upcoming",
       "pandascore_id": 20955
+    },
+    {
+      "id": "20954",
+      "name": "CS Asia Championships — Group A",
+      "region": "asia",
+      "date": "20 май 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 20954
     },
     {
       "id": "20956",

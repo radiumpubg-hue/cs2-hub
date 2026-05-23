@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-05-22T19:28:33.461362+00:00",
+  "last_updated": "2026-05-23T02:38:06.358098+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "20956",
-      "name": "CS Asia Championships — Playoffs",
-      "region": "asia",
-      "date": "22 май 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 20956
-    },
     {
       "id": "20708",
       "name": "IEM — Stage 1",

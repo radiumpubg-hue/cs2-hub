@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T02:58:31.426210+00:00",
+  "last_updated": "2026-05-25T09:57:41.476824+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -15,16 +15,25 @@
       "id": "20709",
       "name": "IEM — Stage 2",
       "region": "global",
-      "date": "5 июн 2026",
+      "date": "6 июн 2026",
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 20709
     },
     {
+      "id": "21115",
+      "name": "IEM — Stage 3",
+      "region": "global",
+      "date": "11 июн 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 21115
+    },
+    {
       "id": "20710",
       "name": "IEM — Playoffs",
       "region": "global",
-      "date": "10 июн 2026",
+      "date": "18 июн 2026",
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 20710

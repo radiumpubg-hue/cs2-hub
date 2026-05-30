@@ -1,47 +1,47 @@
 {
-  "last_updated": "2026-05-29T20:14:23.590561+00:00",
+  "last_updated": "2026-05-30T02:41:51.459452+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
-      "name": "BoyBand",
-      "acronym": "BOYB",
-      "flag": "🇫🇮",
-      "region": "europe",
-      "points": 2500,
-      "qualified": true,
-      "pandascore_id": 138131
-    },
-    {
-      "global_rank": 2,
-      "name": "cirahvi",
-      "acronym": "CRH",
-      "flag": "🇫🇮",
-      "region": "europe",
-      "points": 2390,
-      "qualified": true,
-      "pandascore_id": 138626
-    },
-    {
-      "global_rank": 3,
-      "name": "Omega",
-      "acronym": "OMG",
-      "flag": "🏳",
-      "region": "asia",
-      "points": 2280,
-      "qualified": true,
-      "pandascore_id": 137584
-    },
-    {
-      "global_rank": 4,
       "name": "DEPO",
       "acronym": null,
       "flag": "🏳",
       "region": "asia",
-      "points": 2170,
+      "points": 2500,
       "qualified": true,
       "pandascore_id": 135915
+    },
+    {
+      "global_rank": 2,
+      "name": "BoyBand",
+      "acronym": "BOYB",
+      "flag": "🇫🇮",
+      "region": "europe",
+      "points": 2390,
+      "qualified": true,
+      "pandascore_id": 138131
+    },
+    {
+      "global_rank": 3,
+      "name": "cirahvi",
+      "acronym": "CRH",
+      "flag": "🇫🇮",
+      "region": "europe",
+      "points": 2280,
+      "qualified": true,
+      "pandascore_id": 138626
+    },
+    {
+      "global_rank": 4,
+      "name": "Omega",
+      "acronym": "OMG",
+      "flag": "🏳",
+      "region": "asia",
+      "points": 2170,
+      "qualified": true,
+      "pandascore_id": 137584
     },
     {
       "global_rank": 5,

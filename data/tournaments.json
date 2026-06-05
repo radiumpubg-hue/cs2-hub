@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T14:39:41.287631+00:00",
+  "last_updated": "2026-06-05T19:48:16.943172+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -28,6 +28,15 @@
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 20710
+    },
+    {
+      "id": "21197",
+      "name": "XSE Pro League — Group Stage",
+      "region": "global",
+      "date": "1 июл 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 21197
     }
   ]
 }

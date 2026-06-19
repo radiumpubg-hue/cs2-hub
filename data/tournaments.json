@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-06-18T20:20:05.644548+00:00",
+  "last_updated": "2026-06-19T03:52:36.266879+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "20710",
-      "name": "IEM — Playoffs",
-      "region": "global",
-      "date": "18 июн 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 20710
-    },
     {
       "id": "21197",
       "name": "XSE Pro League — Group Stage",

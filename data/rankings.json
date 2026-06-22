@@ -1,77 +1,77 @@
 {
-  "last_updated": "2026-06-22T11:45:08.976860+00:00",
+  "last_updated": "2026-06-22T16:47:23.208725+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
+      "name": "Misa Esports",
+      "acronym": "MISA",
+      "flag": "🇹🇷",
+      "region": "asia",
+      "points": 2500,
+      "qualified": true,
+      "pandascore_id": 137075
+    },
+    {
+      "global_rank": 2,
       "name": "ECHO",
       "acronym": null,
       "flag": "🇩🇰",
       "region": "europe",
-      "points": 2500,
+      "points": 2390,
       "qualified": true,
       "pandascore_id": 138830
     },
     {
-      "global_rank": 2,
+      "global_rank": 3,
       "name": "TheMongolz",
       "acronym": "MGLZ",
       "flag": "🇲🇳",
       "region": "asia",
-      "points": 2390,
+      "points": 2280,
       "qualified": true,
       "pandascore_id": 3272
     },
     {
-      "global_rank": 3,
+      "global_rank": 4,
       "name": "BC.Game Esports",
       "acronym": "BCG",
       "flag": "🏳",
       "region": "europe",
-      "points": 2280,
+      "points": 2170,
       "qualified": true,
       "pandascore_id": 135177
     },
     {
-      "global_rank": 4,
-      "name": "Aimhaus",
-      "acronym": null,
-      "flag": "🏳",
-      "region": "europe",
-      "points": 2170,
-      "qualified": true,
-      "pandascore_id": 138838
-    },
-    {
       "global_rank": 5,
-      "name": "SINQU Rehti",
+      "name": "Aimhaus",
       "acronym": null,
       "flag": "🏳",
       "region": "europe",
       "points": 2060,
       "qualified": true,
-      "pandascore_id": 138837
+      "pandascore_id": 138838
     },
     {
       "global_rank": 6,
+      "name": "SINQU Rehti",
+      "acronym": null,
+      "flag": "🏳",
+      "region": "europe",
+      "points": 1950,
+      "qualified": true,
+      "pandascore_id": 138837
+    },
+    {
+      "global_rank": 7,
       "name": "UNiTY esports",
       "acronym": "UNiTY",
       "flag": "🇸🇰",
       "region": "europe",
-      "points": 1950,
-      "qualified": true,
-      "pandascore_id": 133063
-    },
-    {
-      "global_rank": 7,
-      "name": "Misa Esports",
-      "acronym": "MISA",
-      "flag": "🇹🇷",
-      "region": "asia",
       "points": 1840,
       "qualified": true,
-      "pandascore_id": 137075
+      "pandascore_id": 133063
     },
     {
       "global_rank": 8,

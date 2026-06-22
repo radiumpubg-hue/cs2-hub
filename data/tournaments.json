@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T03:44:11.782806+00:00",
+  "last_updated": "2026-06-22T11:45:09.747419+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -10,6 +10,15 @@
       "major_slots": 8,
       "status": "Upcoming",
       "pandascore_id": 21197
+    },
+    {
+      "id": "21281",
+      "name": "XSE Pro League — Playoffs",
+      "region": "global",
+      "date": "9 июл 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 21281
     }
   ]
 }

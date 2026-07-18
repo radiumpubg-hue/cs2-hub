@@ -1,38 +1,15 @@
 {
-  "last_updated": "2026-07-17T18:59:55.843960+00:00",
-  "source": "Fallback (нет API ключа)",
+  "last_updated": "2026-07-18T02:01:29.666491+00:00",
+  "source": "PandaScore API",
   "tournaments": [
     {
-      "id": "eu_rmr_2025",
-      "name": "European RMR 2025",
-      "region": "europe",
-      "date": "15 июн 2025",
-      "major_slots": 8,
-      "status": "Upcoming"
-    },
-    {
-      "id": "na_rmr_2025",
-      "name": "Americas RMR 2025",
-      "region": "americas",
-      "date": "22 июн 2025",
-      "major_slots": 8,
-      "status": "Upcoming"
-    },
-    {
-      "id": "apac_rmr_2025",
-      "name": "Asia Pacific RMR 2025",
-      "region": "asia",
-      "date": "29 июн 2025",
-      "major_slots": 8,
-      "status": "Upcoming"
-    },
-    {
-      "id": "pgl_major_2025",
-      "name": "PGL Major 2025",
+      "id": "21474",
+      "name": "BLAST Bounty — Qualifier",
       "region": "global",
-      "date": "15 авг 2025",
-      "major_slots": 24,
-      "status": "Upcoming"
+      "date": "21 июл 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 21474
     }
   ]
 }

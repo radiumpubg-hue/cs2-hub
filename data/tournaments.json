@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-07-21T19:13:09.511166+00:00",
+  "last_updated": "2026-07-22T02:09:45.142098+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "21474",
-      "name": "BLAST Bounty — Qualifier",
-      "region": "global",
-      "date": "21 июл 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 21474
-    },
     {
       "id": "21475",
       "name": "BLAST Bounty — Playoffs",

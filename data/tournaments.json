@@ -1,38 +1,42 @@
 {
-  "last_updated": "2026-08-02T08:14:04.868408+00:00",
-  "source": "Fallback (нет API ключа)",
+  "last_updated": "2026-08-02T13:10:14.083048+00:00",
+  "source": "PandaScore API",
   "tournaments": [
     {
-      "id": "eu_rmr_2025",
-      "name": "European RMR 2025",
-      "region": "europe",
-      "date": "15 июн 2025",
-      "major_slots": 8,
-      "status": "Upcoming"
-    },
-    {
-      "id": "na_rmr_2025",
-      "name": "Americas RMR 2025",
-      "region": "americas",
-      "date": "22 июн 2025",
-      "major_slots": 8,
-      "status": "Upcoming"
-    },
-    {
-      "id": "apac_rmr_2025",
-      "name": "Asia Pacific RMR 2025",
-      "region": "asia",
-      "date": "29 июн 2025",
-      "major_slots": 8,
-      "status": "Upcoming"
-    },
-    {
-      "id": "pgl_major_2025",
-      "name": "PGL Major 2025",
+      "id": "21611",
+      "name": "Esports World Cup — Group D",
       "region": "global",
-      "date": "15 авг 2025",
-      "major_slots": 24,
-      "status": "Upcoming"
+      "date": "12 авг 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 21611
+    },
+    {
+      "id": "21610",
+      "name": "Esports World Cup — Group C",
+      "region": "global",
+      "date": "12 авг 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 21610
+    },
+    {
+      "id": "21609",
+      "name": "Esports World Cup — Group B",
+      "region": "global",
+      "date": "12 авг 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 21609
+    },
+    {
+      "id": "21608",
+      "name": "Esports World Cup — Group A",
+      "region": "global",
+      "date": "12 авг 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 21608
     }
   ]
 }

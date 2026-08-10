@@ -1,25 +1,7 @@
 {
-  "last_updated": "2026-08-10T07:21:56.619834+00:00",
+  "last_updated": "2026-08-10T12:56:40.252485+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "21608",
-      "name": "Esports World Cup — Group A",
-      "region": "global",
-      "date": "12 авг 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 21608
-    },
-    {
-      "id": "21609",
-      "name": "Esports World Cup — Group B",
-      "region": "global",
-      "date": "12 авг 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 21609
-    },
     {
       "id": "21610",
       "name": "Esports World Cup — Group C",
@@ -30,6 +12,15 @@
       "pandascore_id": 21610
     },
     {
+      "id": "21608",
+      "name": "Esports World Cup — Group A",
+      "region": "global",
+      "date": "12 авг 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 21608
+    },
+    {
       "id": "21611",
       "name": "Esports World Cup — Group D",
       "region": "global",
@@ -37,6 +28,15 @@
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 21611
+    },
+    {
+      "id": "21609",
+      "name": "Esports World Cup — Group B",
+      "region": "global",
+      "date": "12 авг 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 21609
     },
     {
       "id": "21646",

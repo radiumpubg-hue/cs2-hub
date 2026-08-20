@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-08-19T18:26:58.364742+00:00",
+  "last_updated": "2026-08-20T00:57:27.563609+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "21646",
-      "name": "Esports World Cup — Playoffs",
-      "region": "global",
-      "date": "19 авг 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 21646
-    },
     {
       "id": "21714",
       "name": "BLAST Open — Group A",

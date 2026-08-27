@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-08-26T19:41:09.590810+00:00",
+  "last_updated": "2026-08-27T06:56:11.947165+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "21714",
-      "name": "BLAST Open — Group A",
-      "region": "global",
-      "date": "26 авг 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 21714
-    },
     {
       "id": "21715",
       "name": "BLAST Open — Group B",

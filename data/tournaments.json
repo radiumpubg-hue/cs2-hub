@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T06:56:11.947165+00:00",
+  "last_updated": "2026-08-27T21:38:40.466196+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -19,6 +19,24 @@
       "major_slots": 8,
       "status": "Upcoming",
       "pandascore_id": 21716
+    },
+    {
+      "id": "21767",
+      "name": "FISSURE PLAYGROUND — Group B",
+      "region": "global",
+      "date": "7 сен 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 21767
+    },
+    {
+      "id": "21766",
+      "name": "FISSURE PLAYGROUND — Group A",
+      "region": "global",
+      "date": "7 сен 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 21766
     }
   ]
 }

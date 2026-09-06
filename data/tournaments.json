@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T02:36:15.067305+00:00",
+  "last_updated": "2026-09-06T10:09:32.884998+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -19,6 +19,15 @@
       "major_slots": 8,
       "status": "Upcoming",
       "pandascore_id": 21766
+    },
+    {
+      "id": "21858",
+      "name": "FISSURE PLAYGROUND — Playoffs",
+      "region": "global",
+      "date": "11 сен 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 21858
     }
   ]
 }

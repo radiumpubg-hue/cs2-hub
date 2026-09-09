@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T02:46:23.880639+00:00",
+  "last_updated": "2026-09-09T10:39:42.011472+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -10,6 +10,15 @@
       "major_slots": 8,
       "status": "Upcoming",
       "pandascore_id": 21858
+    },
+    {
+      "id": "21885",
+      "name": "StarLadder StarSeries — Playoffs",
+      "region": "global",
+      "date": "17 сен 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 21885
     }
   ]
 }

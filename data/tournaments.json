@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-09-11T20:22:05.578564+00:00",
+  "last_updated": "2026-09-12T02:51:12.889257+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "21858",
-      "name": "FISSURE PLAYGROUND — Playoffs",
-      "region": "global",
-      "date": "11 сен 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 21858
-    },
     {
       "id": "21885",
       "name": "StarLadder StarSeries — Playoffs",

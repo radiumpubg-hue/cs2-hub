@@ -1,270 +1,260 @@
 {
-  "last_updated": "2026-09-21T17:44:29.036791+00:00",
+  "last_updated": "2026-09-21T21:37:04.397647+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
-      "name": "Rooster",
-      "acronym": "RSTR",
-      "flag": "🇦🇺",
-      "region": "asia",
+      "name": "WBT Academy",
+      "acronym": "WBT.A",
+      "flag": "🇺🇦",
+      "region": "europe",
       "points": 2500,
       "qualified": true,
-      "pandascore_id": 127114
+      "pandascore_id": 138976
     },
     {
       "global_rank": 2,
-      "name": "Fruju",
-      "acronym": null,
-      "flag": "🇦🇺",
-      "region": "asia",
+      "name": "Revise",
+      "acronym": "REV",
+      "flag": "🇺🇦",
+      "region": "europe",
       "points": 2390,
       "qualified": true,
-      "pandascore_id": 139287
+      "pandascore_id": 139097
     },
     {
       "global_rank": 3,
-      "name": "MARKandLARRY",
-      "acronym": "MandL",
-      "flag": "🏳",
+      "name": "Permitta Esports",
+      "acronym": "PERM",
+      "flag": "🇵🇱",
       "region": "europe",
       "points": 2280,
       "qualified": true,
-      "pandascore_id": 127125
+      "pandascore_id": 132060
     },
     {
       "global_rank": 4,
-      "name": "Arcade Esports",
-      "acronym": "ARC",
-      "flag": "🇦🇺",
-      "region": "asia",
+      "name": "Esport BERG",
+      "acronym": "BERG",
+      "flag": "🇩🇪",
+      "region": "europe",
       "points": 2170,
       "qualified": true,
-      "pandascore_id": 133333
+      "pandascore_id": 138181
     },
     {
       "global_rank": 5,
-      "name": "Orgless",
-      "acronym": null,
-      "flag": "🇦🇺",
-      "region": "asia",
+      "name": "KUUSAMO.gg",
+      "acronym": "KSM",
+      "flag": "🇫🇮",
+      "region": "europe",
       "points": 2060,
       "qualified": true,
-      "pandascore_id": 139126
+      "pandascore_id": 130733
     },
     {
       "global_rank": 6,
-      "name": "Mindfreak",
-      "acronym": "MF",
-      "flag": "🇦🇺",
-      "region": "asia",
-      "points": 1950,
-      "qualified": true,
-      "pandascore_id": 131110
-    },
-    {
-      "global_rank": 7,
-      "name": "Abyssal",
-      "acronym": null,
-      "flag": "🇦🇺",
-      "region": "asia",
-      "points": 1840,
-      "qualified": true,
-      "pandascore_id": 138092
-    },
-    {
-      "global_rank": 8,
-      "name": "THUNDER dOWNUNDER",
-      "acronym": "TdU",
-      "flag": "🇦🇺",
-      "region": "asia",
-      "points": 1730,
-      "qualified": true,
-      "pandascore_id": 137594
-    },
-    {
-      "global_rank": 9,
-      "name": "Ground Zero",
-      "acronym": "GZ",
-      "flag": "🇦🇺",
-      "region": "asia",
-      "points": 1620,
-      "qualified": false,
-      "pandascore_id": 125873
-    },
-    {
-      "global_rank": 10,
-      "name": "FlyQuest",
-      "acronym": "FLY",
-      "flag": "🇺🇸",
-      "region": "americas",
-      "points": 1510,
-      "qualified": false,
-      "pandascore_id": 134746
-    },
-    {
-      "global_rank": 11,
       "name": "mellren",
       "acronym": null,
       "flag": "🏳",
       "region": "asia",
-      "points": 1400,
-      "qualified": false,
+      "points": 1950,
+      "qualified": true,
       "pandascore_id": 138400
     },
     {
-      "global_rank": 12,
-      "name": "Bebop",
-      "acronym": "BBP",
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 1290,
-      "qualified": false,
-      "pandascore_id": 137701
-    },
-    {
-      "global_rank": 13,
-      "name": "ex-RUSTEC",
+      "global_rank": 7,
+      "name": "6666",
       "acronym": null,
-      "flag": "🇷🇺",
+      "flag": "🇺🇦",
       "region": "europe",
-      "points": 1180,
-      "qualified": false,
-      "pandascore_id": 138974
+      "points": 1840,
+      "qualified": true,
+      "pandascore_id": 138811
     },
     {
-      "global_rank": 14,
-      "name": "Nexus",
-      "acronym": "NXS",
-      "flag": "🇷🇴",
-      "region": "europe",
-      "points": 1070,
-      "qualified": false,
-      "pandascore_id": 126699
-    },
-    {
-      "global_rank": 15,
-      "name": "Vexar",
-      "acronym": "VEX",
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 960,
-      "qualified": false,
-      "pandascore_id": 134405
-    },
-    {
-      "global_rank": 16,
-      "name": "Black Phoenix",
-      "acronym": null,
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 850,
-      "qualified": false,
-      "pandascore_id": 138963
-    },
-    {
-      "global_rank": 17,
-      "name": "Saint Sinners",
-      "acronym": "SSins",
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 740,
-      "qualified": false,
-      "pandascore_id": 139149
-    },
-    {
-      "global_rank": 18,
+      "global_rank": 8,
       "name": "Misa Esports",
       "acronym": "MISA",
       "flag": "🇹🇷",
       "region": "asia",
-      "points": 630,
-      "qualified": false,
+      "points": 1730,
+      "qualified": true,
       "pandascore_id": 137075
     },
     {
-      "global_rank": 19,
-      "name": "Bushido Wildcats",
-      "acronym": "BW",
-      "flag": "🇹🇷",
+      "global_rank": 9,
+      "name": "eSuba",
+      "acronym": "ESB",
+      "flag": "🇨🇿",
+      "region": "europe",
+      "points": 1620,
+      "qualified": false,
+      "pandascore_id": 127497
+    },
+    {
+      "global_rank": 10,
+      "name": "Entropy",
+      "acronym": null,
+      "flag": "🇩🇪",
+      "region": "europe",
+      "points": 1510,
+      "qualified": false,
+      "pandascore_id": 128258
+    },
+    {
+      "global_rank": 11,
+      "name": "TEAM GELO",
+      "acronym": "TG",
+      "flag": "🏳",
       "region": "asia",
+      "points": 1400,
+      "qualified": false,
+      "pandascore_id": 139290
+    },
+    {
+      "global_rank": 12,
+      "name": "Fever Squad",
+      "acronym": "FS",
+      "flag": "🇺🇦",
+      "region": "europe",
+      "points": 1290,
+      "qualified": false,
+      "pandascore_id": 139289
+    },
+    {
+      "global_rank": 13,
+      "name": "Inner Circle Prospect",
+      "acronym": "IC.P",
+      "flag": "🇺🇦",
+      "region": "europe",
+      "points": 1180,
+      "qualified": false,
+      "pandascore_id": 138602
+    },
+    {
+      "global_rank": 14,
+      "name": "forfeit-exe",
+      "acronym": "ff-exe",
+      "flag": "🏳",
+      "region": "asia",
+      "points": 1070,
+      "qualified": false,
+      "pandascore_id": 139288
+    },
+    {
+      "global_rank": 15,
+      "name": "Young TigeRES",
+      "acronym": "Y.TigeRES",
+      "flag": "🏳",
+      "region": "europe",
+      "points": 960,
+      "qualified": false,
+      "pandascore_id": 137581
+    },
+    {
+      "global_rank": 16,
+      "name": "Al Ahli",
+      "acronym": null,
+      "flag": "🏳",
+      "region": "europe",
+      "points": 850,
+      "qualified": false,
+      "pandascore_id": 138875
+    },
+    {
+      "global_rank": 17,
+      "name": "PARTIZAN",
+      "acronym": "PRTZN",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 740,
+      "qualified": false,
+      "pandascore_id": 133891
+    },
+    {
+      "global_rank": 18,
+      "name": "BakS eSports",
+      "acronym": "BAKS",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 630,
+      "qualified": false,
+      "pandascore_id": 130794
+    },
+    {
+      "global_rank": 19,
+      "name": "Spirit Academy Green",
+      "acronym": null,
+      "flag": "🇷🇺",
+      "region": "europe",
       "points": 520,
       "qualified": false,
-      "pandascore_id": 136934
+      "pandascore_id": 137444
     },
     {
       "global_rank": 20,
-      "name": "PRZ Gaming",
-      "acronym": "PRZ",
-      "flag": "🏳",
+      "name": "NAVI Junior",
+      "acronym": "NAVI.J",
+      "flag": "🇺🇦",
       "region": "europe",
       "points": 410,
       "qualified": false,
-      "pandascore_id": 139101
+      "pandascore_id": 126491
     },
     {
       "global_rank": 21,
-      "name": "Omen Esports",
-      "acronym": "OMEN",
-      "flag": "🇺🇸",
-      "region": "americas",
+      "name": "Falcons Force",
+      "acronym": "FAL.F",
+      "flag": "🏳",
+      "region": "europe",
       "points": 300,
       "qualified": false,
-      "pandascore_id": 138043
+      "pandascore_id": 137508
     },
     {
       "global_rank": 22,
-      "name": "Azuolas",
-      "acronym": null,
-      "flag": "🏳",
+      "name": "Fire Flux Esports",
+      "acronym": "FF",
+      "flag": "🇹🇷",
       "region": "asia",
       "points": 190,
       "qualified": false,
-      "pandascore_id": 139174
+      "pandascore_id": 135474
     },
     {
       "global_rank": 23,
-      "name": "Honvéd",
+      "name": "Diamant Esports",
       "acronym": null,
       "flag": "🏳",
       "region": "asia",
       "points": 80,
       "qualified": false,
-      "pandascore_id": 128887
+      "pandascore_id": 135913
     },
     {
       "global_rank": 24,
-      "name": "Voca",
-      "acronym": "VOCA",
-      "flag": "🇺🇸",
+      "name": "Full House Gaming",
+      "acronym": "FHG",
+      "flag": "🇧🇷",
       "region": "americas",
       "points": 50,
       "qualified": false,
-      "pandascore_id": 137510
+      "pandascore_id": 134944
     },
     {
       "global_rank": 25,
-      "name": "Damajuana",
-      "acronym": null,
-      "flag": "🏳",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138111
-    },
-    {
-      "global_rank": 26,
-      "name": "FarmVille",
-      "acronym": "FV",
-      "flag": "🏳",
+      "name": "9INE Academy",
+      "acronym": "9INE.A",
+      "flag": "🇸🇪",
       "region": "europe",
       "points": 50,
       "qualified": false,
-      "pandascore_id": 138044
+      "pandascore_id": 130421
     },
     {
-      "global_rank": 27,
+      "global_rank": 26,
       "name": "UNiTY esports",
       "acronym": "UNiTY",
       "flag": "🇸🇰",
@@ -274,234 +264,244 @@
       "pandascore_id": 133063
     },
     {
-      "global_rank": 28,
-      "name": "Mira",
-      "acronym": "MIRA",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 139283
-    },
-    {
-      "global_rank": 29,
-      "name": "your end",
-      "acronym": null,
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 139202
-    },
-    {
-      "global_rank": 30,
-      "name": "Peladona",
-      "acronym": "PLD",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 139114
-    },
-    {
-      "global_rank": 31,
-      "name": "Semente do Mal",
-      "acronym": null,
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 139113
-    },
-    {
-      "global_rank": 32,
-      "name": "MEIA NOITE",
-      "acronym": null,
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 139026
-    },
-    {
-      "global_rank": 33,
-      "name": "Grêmio Esports",
-      "acronym": "GRE",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138942
-    },
-    {
-      "global_rank": 34,
-      "name": "BORRACHEIROS",
-      "acronym": "CHAMA",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138886
-    },
-    {
-      "global_rank": 35,
-      "name": "Zetta Games",
-      "acronym": null,
-      "flag": "🏳",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138651
-    },
-    {
-      "global_rank": 36,
-      "name": "QUINTESSÊNCIA",
-      "acronym": "QUIN",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138524
-    },
-    {
-      "global_rank": 37,
-      "name": "ALKA GAMING",
-      "acronym": "ALKA",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138276
-    },
-    {
-      "global_rank": 38,
-      "name": "METANOIA WOLVES",
-      "acronym": "MW",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138086
-    },
-    {
-      "global_rank": 39,
-      "name": "BESTIA Academy",
-      "acronym": "BST.A",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 135743
-    },
-    {
-      "global_rank": 40,
-      "name": "paiN Academy",
-      "acronym": "paiN.A",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 131849
-    },
-    {
-      "global_rank": 41,
-      "name": "MIBR fe",
-      "acronym": "MIBR.F",
-      "flag": "🇧🇷",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 130196
-    },
-    {
-      "global_rank": 42,
-      "name": "Procyon Gaming",
-      "acronym": "PCY",
-      "flag": "🏳",
-      "region": "americas",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 128378
-    },
-    {
-      "global_rank": 43,
-      "name": "Lavked",
-      "acronym": "LVKD",
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 138370
-    },
-    {
-      "global_rank": 44,
-      "name": "Morrow Esports",
-      "acronym": null,
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 139111
-    },
-    {
-      "global_rank": 45,
-      "name": "Mai Tai",
-      "acronym": null,
+      "global_rank": 27,
+      "name": " Phantom Academy",
+      "acronym": "PHTM.Ac",
       "flag": "🇵🇱",
       "region": "europe",
       "points": 50,
       "qualified": false,
-      "pandascore_id": 138848
+      "pandascore_id": 137580
+    },
+    {
+      "global_rank": 28,
+      "name": "WW Team",
+      "acronym": "WW",
+      "flag": "🏳",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 135497
+    },
+    {
+      "global_rank": 29,
+      "name": "Rooster",
+      "acronym": "RSTR",
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 127114
+    },
+    {
+      "global_rank": 30,
+      "name": "Fruju",
+      "acronym": null,
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 139287
+    },
+    {
+      "global_rank": 31,
+      "name": "MARKandLARRY",
+      "acronym": "MandL",
+      "flag": "🏳",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 127125
+    },
+    {
+      "global_rank": 32,
+      "name": "Arcade Esports",
+      "acronym": "ARC",
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 133333
+    },
+    {
+      "global_rank": 33,
+      "name": "Orgless",
+      "acronym": null,
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 139126
+    },
+    {
+      "global_rank": 34,
+      "name": "Mindfreak",
+      "acronym": "MF",
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 131110
+    },
+    {
+      "global_rank": 35,
+      "name": "Abyssal",
+      "acronym": null,
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 138092
+    },
+    {
+      "global_rank": 36,
+      "name": "THUNDER dOWNUNDER",
+      "acronym": "TdU",
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 137594
+    },
+    {
+      "global_rank": 37,
+      "name": "Ground Zero",
+      "acronym": "GZ",
+      "flag": "🇦🇺",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 125873
+    },
+    {
+      "global_rank": 38,
+      "name": "FlyQuest",
+      "acronym": "FLY",
+      "flag": "🇺🇸",
+      "region": "americas",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 134746
+    },
+    {
+      "global_rank": 39,
+      "name": "Bebop",
+      "acronym": "BBP",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 137701
+    },
+    {
+      "global_rank": 40,
+      "name": "ex-RUSTEC",
+      "acronym": null,
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 138974
+    },
+    {
+      "global_rank": 41,
+      "name": "Nexus",
+      "acronym": "NXS",
+      "flag": "🇷🇴",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 126699
+    },
+    {
+      "global_rank": 42,
+      "name": "Vexar",
+      "acronym": "VEX",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 134405
+    },
+    {
+      "global_rank": 43,
+      "name": "Black Phoenix",
+      "acronym": null,
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 138963
+    },
+    {
+      "global_rank": 44,
+      "name": "Saint Sinners",
+      "acronym": "SSins",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 139149
+    },
+    {
+      "global_rank": 45,
+      "name": "Bushido Wildcats",
+      "acronym": "BW",
+      "flag": "🇹🇷",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 136934
     },
     {
       "global_rank": 46,
-      "name": "Benched gods",
-      "acronym": "BG",
+      "name": "PRZ Gaming",
+      "acronym": "PRZ",
       "flag": "🏳",
       "region": "europe",
       "points": 50,
       "qualified": false,
-      "pandascore_id": 138027
+      "pandascore_id": 139101
     },
     {
       "global_rank": 47,
-      "name": "STATE",
-      "acronym": "STA",
-      "flag": "🇩🇰",
-      "region": "europe",
+      "name": "Omen Esports",
+      "acronym": "OMEN",
+      "flag": "🇺🇸",
+      "region": "americas",
       "points": 50,
       "qualified": false,
-      "pandascore_id": 137861
+      "pandascore_id": 138043
     },
     {
       "global_rank": 48,
-      "name": "MarcaRegistrada",
-      "acronym": "MR",
-      "flag": "🏳",
-      "region": "europe",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 135231
-    },
-    {
-      "global_rank": 49,
-      "name": "OverKnight",
+      "name": "Azuolas",
       "acronym": null,
-      "flag": "🏳",
-      "region": "europe",
-      "points": 50,
-      "qualified": false,
-      "pandascore_id": 128002
-    },
-    {
-      "global_rank": 50,
-      "name": "Haunted House",
-      "acronym": "HH",
       "flag": "🏳",
       "region": "asia",
       "points": 50,
       "qualified": false,
-      "pandascore_id": 138283
+      "pandascore_id": 139174
+    },
+    {
+      "global_rank": 49,
+      "name": "Honvéd",
+      "acronym": null,
+      "flag": "🏳",
+      "region": "asia",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 128887
+    },
+    {
+      "global_rank": 50,
+      "name": "Voca",
+      "acronym": "VOCA",
+      "flag": "🇺🇸",
+      "region": "americas",
+      "points": 50,
+      "qualified": false,
+      "pandascore_id": 137510
     }
   ]
 }

@@ -1,97 +1,97 @@
 {
-  "last_updated": "2026-09-27T03:19:45.642089+00:00",
+  "last_updated": "2026-09-27T11:16:06.230917+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
-      "name": "FarmVille",
-      "acronym": "FV",
-      "flag": "🏳",
-      "region": "europe",
-      "points": 2500,
-      "qualified": true,
-      "pandascore_id": 138044
-    },
-    {
-      "global_rank": 2,
-      "name": "Noir Verse",
-      "acronym": null,
-      "flag": "🇺🇦",
-      "region": "europe",
-      "points": 2390,
-      "qualified": true,
-      "pandascore_id": 138812
-    },
-    {
-      "global_rank": 3,
-      "name": "KUUSAMO.gg",
-      "acronym": "KSM",
-      "flag": "🇫🇮",
-      "region": "europe",
-      "points": 2280,
-      "qualified": true,
-      "pandascore_id": 130733
-    },
-    {
-      "global_rank": 4,
-      "name": "megoshort",
-      "acronym": "MEGO",
-      "flag": "🇸🇪",
-      "region": "europe",
-      "points": 2170,
-      "qualified": true,
-      "pandascore_id": 128629
-    },
-    {
-      "global_rank": 5,
-      "name": "Spirit Academy",
-      "acronym": "TS.A",
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 2060,
-      "qualified": true,
-      "pandascore_id": 128766
-    },
-    {
-      "global_rank": 6,
-      "name": "Saint Sinners",
-      "acronym": "SSins",
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 1950,
-      "qualified": true,
-      "pandascore_id": 139149
-    },
-    {
-      "global_rank": 7,
-      "name": "ex-Zero Tenacity",
-      "acronym": "ex-ZT",
-      "flag": "🏳",
-      "region": "asia",
-      "points": 1840,
-      "qualified": true,
-      "pandascore_id": 137703
-    },
-    {
-      "global_rank": 8,
       "name": " Phantom Academy",
       "acronym": "PHTM.Ac",
       "flag": "🇵🇱",
       "region": "europe",
-      "points": 1730,
+      "points": 2500,
       "qualified": true,
       "pandascore_id": 137580
     },
     {
-      "global_rank": 9,
+      "global_rank": 2,
       "name": "Bushido Wildcats",
       "acronym": "BW",
       "flag": "🇹🇷",
       "region": "asia",
+      "points": 2390,
+      "qualified": true,
+      "pandascore_id": 136934
+    },
+    {
+      "global_rank": 3,
+      "name": "FarmVille",
+      "acronym": "FV",
+      "flag": "🏳",
+      "region": "europe",
+      "points": 2280,
+      "qualified": true,
+      "pandascore_id": 138044
+    },
+    {
+      "global_rank": 4,
+      "name": "Noir Verse",
+      "acronym": null,
+      "flag": "🇺🇦",
+      "region": "europe",
+      "points": 2170,
+      "qualified": true,
+      "pandascore_id": 138812
+    },
+    {
+      "global_rank": 5,
+      "name": "KUUSAMO.gg",
+      "acronym": "KSM",
+      "flag": "🇫🇮",
+      "region": "europe",
+      "points": 2060,
+      "qualified": true,
+      "pandascore_id": 130733
+    },
+    {
+      "global_rank": 6,
+      "name": "megoshort",
+      "acronym": "MEGO",
+      "flag": "🇸🇪",
+      "region": "europe",
+      "points": 1950,
+      "qualified": true,
+      "pandascore_id": 128629
+    },
+    {
+      "global_rank": 7,
+      "name": "Spirit Academy",
+      "acronym": "TS.A",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 1840,
+      "qualified": true,
+      "pandascore_id": 128766
+    },
+    {
+      "global_rank": 8,
+      "name": "Saint Sinners",
+      "acronym": "SSins",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 1730,
+      "qualified": true,
+      "pandascore_id": 139149
+    },
+    {
+      "global_rank": 9,
+      "name": "ex-Zero Tenacity",
+      "acronym": "ex-ZT",
+      "flag": "🏳",
+      "region": "asia",
       "points": 1620,
       "qualified": false,
-      "pandascore_id": 136934
+      "pandascore_id": 137703
     },
     {
       "global_rank": 10,

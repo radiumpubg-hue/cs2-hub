@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-10-09T22:09:47.886127+00:00",
+  "last_updated": "2026-10-10T04:02:07.141220+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "22018",
-      "name": "ESL Pro League — Playoffs",
-      "region": "global",
-      "date": "9 окт 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 22018
-    },
     {
       "id": "22132",
       "name": "Thunderpick World Championship — Group B",

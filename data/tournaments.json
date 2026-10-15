@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T02:55:12.647964+00:00",
+  "last_updated": "2026-10-15T10:45:39.981762+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -10,6 +10,15 @@
       "major_slots": 8,
       "status": "Upcoming",
       "pandascore_id": 22133
+    },
+    {
+      "id": "22222",
+      "name": "PGL Masters — Group Stage",
+      "region": "global",
+      "date": "24 окт 2026",
+      "major_slots": 8,
+      "status": "Upcoming",
+      "pandascore_id": 22222
     }
   ]
 }

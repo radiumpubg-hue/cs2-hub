@@ -1,25 +1,7 @@
 {
-  "last_updated": "2026-10-14T21:13:48.405212+00:00",
+  "last_updated": "2026-10-15T02:55:12.647964+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "22131",
-      "name": "Thunderpick World Championship — Group A",
-      "region": "global",
-      "date": "14 окт 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 22131
-    },
-    {
-      "id": "22132",
-      "name": "Thunderpick World Championship — Group B",
-      "region": "global",
-      "date": "14 окт 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 22132
-    },
     {
       "id": "22133",
       "name": "Thunderpick World Championship — Playoffs",

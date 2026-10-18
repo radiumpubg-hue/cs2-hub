@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-10-17T20:00:11.112042+00:00",
+  "last_updated": "2026-10-18T02:45:44.801551+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "22133",
-      "name": "Thunderpick World Championship — Playoffs",
-      "region": "global",
-      "date": "17 окт 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 22133
-    },
     {
       "id": "22222",
       "name": "PGL Masters — Group Stage",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T16:14:54.820478+00:00",
+  "last_updated": "2026-10-20T21:10:04.108357+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -28,6 +28,15 @@
       "major_slots": 16,
       "status": "Upcoming",
       "pandascore_id": 22267
+    },
+    {
+      "id": "22268",
+      "name": "IEM — Group B",
+      "region": "global",
+      "date": "2 ноя 2026",
+      "major_slots": 16,
+      "status": "Upcoming",
+      "pandascore_id": 22268
     }
   ]
 }

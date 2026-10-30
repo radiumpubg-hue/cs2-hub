@@ -1,16 +1,7 @@
 {
-  "last_updated": "2026-10-29T22:21:43.126300+00:00",
+  "last_updated": "2026-10-30T04:05:09.415398+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "22228",
-      "name": "PGL Masters — Playoffs",
-      "region": "global",
-      "date": "29 окт 2026",
-      "major_slots": 8,
-      "status": "Upcoming",
-      "pandascore_id": 22228
-    },
     {
       "id": "22267",
       "name": "IEM — Group A",

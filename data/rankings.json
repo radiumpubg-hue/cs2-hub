@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-11-10T22:45:07.704174+00:00",
+  "last_updated": "2026-11-11T04:23:58.550906+00:00",
   "source": "PandaScore API",
   "note": "VRS очки приблизительные — PandaScore не публикует официальный VRS Valve",
   "teams": [
     {
       "global_rank": 1,
-      "name": "BASEMENT BOYS",
-      "acronym": "BMB",
-      "flag": "🇷🇺",
-      "region": "europe",
-      "points": 2500,
-      "qualified": true,
-      "pandascore_id": 136516
-    },
-    {
-      "global_rank": 2,
       "name": "GameSport",
       "acronym": "GS",
       "flag": "🇷🇺",
       "region": "europe",
-      "points": 2390,
+      "points": 2500,
       "qualified": true,
       "pandascore_id": 139004
+    },
+    {
+      "global_rank": 2,
+      "name": "BASEMENT BOYS",
+      "acronym": "BMB",
+      "flag": "🇷🇺",
+      "region": "europe",
+      "points": 2390,
+      "qualified": true,
+      "pandascore_id": 136516
     },
     {
       "global_rank": 3,

@@ -1,25 +1,7 @@
 {
-  "last_updated": "2026-11-11T23:58:10.853063+00:00",
+  "last_updated": "2026-11-12T06:28:04.636418+00:00",
   "source": "PandaScore API",
   "tournaments": [
-    {
-      "id": "22269",
-      "name": "BLAST Rivals — Group A",
-      "region": "global",
-      "date": "11 ноя 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 22269
-    },
-    {
-      "id": "22270",
-      "name": "BLAST Rivals — Group B",
-      "region": "global",
-      "date": "11 ноя 2026",
-      "major_slots": 16,
-      "status": "Upcoming",
-      "pandascore_id": 22270
-    },
     {
       "id": "22271",
       "name": "BLAST Rivals — Playoffs",

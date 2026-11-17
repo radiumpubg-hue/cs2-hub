@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T14:35:10.111780+00:00",
+  "last_updated": "2026-11-17T01:28:29.363431+00:00",
   "source": "PandaScore API",
   "tournaments": [
     {
@@ -10,6 +10,33 @@
       "major_slots": 24,
       "status": "Upcoming",
       "pandascore_id": 22378
+    },
+    {
+      "id": "22473",
+      "name": "PGL Major — Stage 2",
+      "region": "global",
+      "date": "28 ноя 2026",
+      "major_slots": 24,
+      "status": "Upcoming",
+      "pandascore_id": 22473
+    },
+    {
+      "id": "22475",
+      "name": "PGL Major — Stage 3",
+      "region": "global",
+      "date": "2 дек 2026",
+      "major_slots": 24,
+      "status": "Upcoming",
+      "pandascore_id": 22475
+    },
+    {
+      "id": "22476",
+      "name": "PGL Major — Playoffs",
+      "region": "global",
+      "date": "10 дек 2026",
+      "major_slots": 24,
+      "status": "Upcoming",
+      "pandascore_id": 22476
     }
   ]
 }

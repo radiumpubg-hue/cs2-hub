@@ -1,7 +1,16 @@
 {
-  "last_updated": "2026-11-24T03:44:01.903505+00:00",
+  "last_updated": "2026-11-24T16:53:21.860171+00:00",
   "source": "PandaScore API",
   "tournaments": [
+    {
+      "id": "22378",
+      "name": "PGL Major — Stage 1",
+      "region": "global",
+      "date": "24 ноя 2026",
+      "major_slots": 24,
+      "status": "Upcoming",
+      "pandascore_id": 22378
+    },
     {
       "id": "22473",
       "name": "PGL Major — Stage 2",
